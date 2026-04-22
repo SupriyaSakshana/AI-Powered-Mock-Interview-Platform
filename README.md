@@ -16,3 +16,8 @@ To simulate real interview environments
 To generate role-based interview questions dynamically
 To evaluate candidate responses using AI
 To provide structured feedback and scoring
+
+
+
+Workflow
+User selects role → AI generates questions → User answers → AI evaluates → Feedback displayed
