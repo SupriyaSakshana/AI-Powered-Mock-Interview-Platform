@@ -1,6 +1,10 @@
 # AI-Powered-Mock-Interview-Platform
 
 
+<img width="781" height="458" alt="image" src="https://github.com/user-attachments/assets/b16b63c0-353b-42cd-8155-124d6217d05f" />
+
+
+
 
 1. Introduction
 
